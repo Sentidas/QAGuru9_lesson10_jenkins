@@ -1,6 +1,8 @@
 package fillForm.tests;
 
 import com.github.javafaker.Faker;
+import io.qameta.allure.*;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.Locale;
@@ -14,8 +16,12 @@ public class TextBoxTest extends TestBase {
     String addressCity = faker.address().city();
     String addressStreet = faker.address().streetAddress();
 
-
     @Test
+    @Owner("BaharevaElena")
+    @Feature("Заполнение Student Registration Form на demoqa.com")
+    @Severity(SeverityLevel.BLOCKER)
+    @DisplayName("Полное заполенине Student Registration Form на demoqa.com")
+    @Link(name = "demoqa.com", url = "https://demoqa.com/automation-practice-form")
     void fillFormTest() {
 
         registrationPage.openPage();
