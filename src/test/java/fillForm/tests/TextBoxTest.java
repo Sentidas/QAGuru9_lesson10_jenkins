@@ -18,7 +18,7 @@ public class TextBoxTest extends TestBase {
 
     @Test
     @Owner("BaharevaElena")
-    @Feature("Заполнение Student Registration Form на demoqa.com")
+    @Feature("Заполнение формы на demoqa.com")
     @Severity(SeverityLevel.BLOCKER)
     @DisplayName("Полное заполенине Student Registration Form на demoqa.com")
     @Link(name = "demoqa.com", url = "https://demoqa.com/automation-practice-form")
