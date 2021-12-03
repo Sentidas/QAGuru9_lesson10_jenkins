@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import static java.lang.String.format;
+
 @Tag("properties")
 public class OwnerTests {
     public CredentialsConfig credentials = ConfigFactory.create(CredentialsConfig.class); // фишка owner из документации
