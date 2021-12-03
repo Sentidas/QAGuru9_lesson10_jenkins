@@ -50,11 +50,12 @@ tasks.withType(Test) {
 }
 
 tasks.withType(Test) {
-   systemProperty("environment", System.getProperty("environment", "stage")) }// preprod, prod
+  //systemProperty("environment", System.getProperty("environment", "stage"))
+    }// preprod, prod
 
 task properties_tests(type: Test) {
     systemProperty("browserSize", System.getProperty("browserSize", "400x400"))
-    //systemProperties(System.getProperties())
+    systemProperties(System.getProperties())
     useJUnitPlatform {
         includeTags "properties"
     }
