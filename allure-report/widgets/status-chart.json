@@ -1,0 +1,31 @@
+[ {
+  "uid" : "512510397d0a1881",
+  "name" : "readCredentialsTest()",
+  "time" : {
+    "start" : 1638527917748,
+    "stop" : 1638527917888,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "501cc313eabd0141",
+  "name" : "someTest4()",
+  "time" : {
+    "start" : 1638527918083,
+    "stop" : 1638527918083,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3a6e6edc3d3f4c5",
+  "name" : "someTest5()",
+  "time" : {
+    "start" : 1638527918093,
+    "stop" : 1638527918093,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

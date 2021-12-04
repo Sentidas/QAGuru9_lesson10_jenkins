@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 03 13:38:37 MSK 2021","Fri Dec 03 13:38:37 MSK 2021","140","","fillForm.tests.properties.OwnerTests","","fillForm.tests.properties.OwnerTests","readCredentialsTest","readCredentialsTest()",""
+"passed","Fri Dec 03 13:38:38 MSK 2021","Fri Dec 03 13:38:38 MSK 2021","0","","fillForm.tests.properties.SystemPropertiesTests","","fillForm.tests.properties.SystemPropertiesTests","someTest4","someTest4()",""
+"passed","Fri Dec 03 13:38:38 MSK 2021","Fri Dec 03 13:38:38 MSK 2021","0","","fillForm.tests.properties.SystemPropertiesTests","","fillForm.tests.properties.SystemPropertiesTests","someTest5","someTest5()",""

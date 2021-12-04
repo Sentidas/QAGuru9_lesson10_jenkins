@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-7II79TIT",
+    "children" : [ {
+      "name" : "18280@LAPTOP-7II79TIT.Test worker(1)",
+      "children" : [ {
+        "name" : "someTest4()",
+        "uid" : "501cc313eabd0141",
+        "parentUid" : "17a7098523a53bb81543764116f466e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638527918083,
+          "stop" : 1638527918083,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "readCredentialsTest()",
+        "uid" : "512510397d0a1881",
+        "parentUid" : "17a7098523a53bb81543764116f466e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638527917748,
+          "stop" : 1638527917888,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "someTest5()",
+        "uid" : "a3a6e6edc3d3f4c5",
+        "parentUid" : "17a7098523a53bb81543764116f466e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638527918093,
+          "stop" : 1638527918093,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17a7098523a53bb81543764116f466e7"
+    } ],
+    "uid" : "ba9963be446c7bd633c106fd1aa8fbff"
+  } ]
+}

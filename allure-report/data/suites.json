@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "fillForm.tests.properties.OwnerTests",
+    "children" : [ {
+      "name" : "readCredentialsTest()",
+      "uid" : "512510397d0a1881",
+      "parentUid" : "df8f486ff2da177c455d61e06afec179",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638527917748,
+        "stop" : 1638527917888,
+        "duration" : 140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "df8f486ff2da177c455d61e06afec179"
+  }, {
+    "name" : "fillForm.tests.properties.SystemPropertiesTests",
+    "children" : [ {
+      "name" : "someTest4()",
+      "uid" : "501cc313eabd0141",
+      "parentUid" : "7233c39869277a75a6b27668497e6d44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638527918083,
+        "stop" : 1638527918083,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "someTest5()",
+      "uid" : "a3a6e6edc3d3f4c5",
+      "parentUid" : "7233c39869277a75a6b27668497e6d44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638527918093,
+        "stop" : 1638527918093,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7233c39869277a75a6b27668497e6d44"
+  } ]
+}
